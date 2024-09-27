@@ -1,5 +1,5 @@
 # Mallard Labs
-
+![Banner image featuring the Mallard Labs logo](https://github.com/MallardLabs/.github/blob/0ddd2d4aca3d90440589bdc9fbaa3130c026435a/profile/mallardlabs%20banner.png)
 <!--
 
 **Here are some ideas to get you started:**
