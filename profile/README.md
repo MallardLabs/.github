@@ -5,4 +5,4 @@
 
 We're currently working on developing [matsCraft](https://github.com/MallardLabs/matsCraft/), matsFi for Minecraft.
 
-Learn more about what we're building at Mallard Labs, by joining the [Mezo Discord](https://discord.mezo.org).
+Learn more about what we're building at Mallard Labs by joining the [Mezo Discord](https://discord.mezo.org).
