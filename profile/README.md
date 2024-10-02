@@ -3,6 +3,6 @@
 
 ## The community-run software development team. From t*DAO.
 
-We're currently working on developing [matscraft](https://github.com/MallardLabs/matsCraft/), matsFi for Minecraft.
+We're currently working on developing [matscraft](https://github.com/MallardLabs/matscraft/), matsFi for Minecraft.
 
 Learn more about what we're building at Mallard Labs by joining the [Mezo Discord](https://discord.mezo.org).
